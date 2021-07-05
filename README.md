@@ -2,12 +2,12 @@
 
 This is an unofficial plasmoid widget that provides a graphical way to control your NordVPN connection from a widget on a panel on your KDE Plasma Desktop. It has been independently developed and is not affiliated with NordVPN in any way.
 
-This was developed for and tested with KDE Plasma 5.18.5 on Kubuntu 20.04.
+This was developed for and tested with KDE Plasma 5.21.5 on Manjaro 21.0.7.
 
 ## Requirements
 
 * KDE Plasma 5 (https://kde.org/plasma-desktop/)
-* Nord VPN CLI (https://nordvpn.com/download/linux/)
+* ~~Nord VPN CLI (https://nordvpn.com/download/linux/)~~ Curl
 
 ## Installing
 
