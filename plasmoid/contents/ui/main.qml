@@ -73,6 +73,6 @@ Item {
             dataModel.status = NordStatus.parseStatusString(stdout)
         }
 
-        interval: 12 * 1000
+        interval: 120 * 1000
     }
 }
