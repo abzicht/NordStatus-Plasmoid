@@ -4,6 +4,9 @@ This is an unofficial plasmoid widget that provides a graphical way to control y
 
 This was developed for and tested with KDE Plasma 5.21.5 on Manjaro 21.0.7.
 
+## Fork Note
+Unlike its original version, this fork uses a NordVPN Web-API to query status information. This makes it independent from the Nord VPN Cli and can be used in any network. All information known to Nord VPN is shown when hovering over the widget. 
+
 ## Requirements
 
 * KDE Plasma 5 (https://kde.org/plasma-desktop/)
